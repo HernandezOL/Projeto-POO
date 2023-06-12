@@ -1,1 +1,2 @@
-
+Construimos um Sistema de RH utilizando o Java Spring Boot e conectando-o ao banco de dados MYSQL.
+	Nosso Sistema possui as telas de Home, Funcionário e Vagas. Com as funcionalidades de cadastro de funcionários e vagas, também implementamos o método de pesquisa, para ficar mais fácil a busca por determinadas vagas ou pessoas.
