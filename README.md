@@ -4,7 +4,7 @@ Integrantes: Hernandez Oliveira (turma A) e Luiz Victor Salgado (turma B).
 
 Projeto feito com Java, Spring Boot e MYSQL.
 
-Link Vídeo do Sistema de RH:
+Link do Vídeo demonstrando o Sistema:
 https://senacspedu-my.sharepoint.com/:v:/g/personal/hernandez_oglopes_senacsp_edu_br/EZciB7BrQmRNjGPy4dQiuKIBczgXubwsMjfuRy_s02KZcQ
 
 Link Documentação:
